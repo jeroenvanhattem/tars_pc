@@ -1,0 +1,8 @@
+asyncio
+fastapi
+fastapi-cli
+httpcore
+httptools
+httpx
+ollama
+uvicorn
